@@ -5,6 +5,7 @@
 ![MIT](https://img.shields.io/github/license/mashape/apistatus.svg)
 ![Type](https://img.shields.io/badge/Machine-Learning-red.svg)
 ![doc-percent](https://img.shields.io/cocoapods/metrics/doc-percent/AFNetworking.svg)
+![Status](https://img.shields.io/badge/Status-Completed-yellowgreen.svg)
 
 ### Install
 
