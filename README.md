@@ -1,6 +1,11 @@
 # Project 0: Introduction and Fundamentals
 ## Titanic Survival Exploration
 
+[![Build Status](https://travis-ci.org/boennemann/badges.svg?branch=master)](https://travis-ci.org/boennemann/badges) ![Python](https://img.shields.io/badge/python-2.x-orange.svg)
+![MIT](https://img.shields.io/github/license/mashape/apistatus.svg)
+![Type](https://img.shields.io/badge/Machine-Learning-red.svg)
+![doc-percent](https://img.shields.io/cocoapods/metrics/doc-percent/AFNetworking.svg)
+
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
